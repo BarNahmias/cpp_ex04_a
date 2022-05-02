@@ -17,7 +17,6 @@ namespace coup{
 
         private:
 
-            unsigned  int _income;
             string _turn;
             string _winner;
             vector <string> p;
@@ -28,6 +27,7 @@ namespace coup{
 //            ~Game() ;
 
         public:
+             unsigned  int _income;
 
             string turn() const;
 

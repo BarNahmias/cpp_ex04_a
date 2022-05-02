@@ -16,5 +16,9 @@ using namespace std;
 using namespace coup;
 Duke::Duke(Game & game , const  string & player_name): Player(game, player_name,"Duke"){}
 
-void Duke:: block(Player & player) {cout << "block" << endl;}
-void Duke:: tax() {cout << "tax" << endl;}
+void Duke:: block(Player & player) {
+//    cout << "block" << endl;
+}
+void Duke:: tax() {
+//    cout << "tax" << endl;
+}

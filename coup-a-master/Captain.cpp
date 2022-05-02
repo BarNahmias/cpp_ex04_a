@@ -16,5 +16,9 @@ using namespace std;
 
 //Captain::Captain (Game &g, string n) : Player(g,n) {}
 
-void Captain::  steal (Player & player) {cout << "steal" << endl;};
-void Captain:: block(Player & player){cout << "block" << endl;}
+void Captain::  steal (Player & player) {
+//    cout << "steal" << endl;
+};
+void Captain:: block(Player & player){
+//    cout << "block" << endl;
+}

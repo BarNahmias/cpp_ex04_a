@@ -9,6 +9,6 @@ void  Ambassador::transfer (Player &take,Player &get) {
     cout << "transfer" << endl;
 }
 void Ambassador::block(Player &player) {
-    cout << "block" << endl;
+//    cout << "block" << endl;
 
 }

@@ -15,4 +15,6 @@ using namespace std;
 
 using namespace coup;
 
-void Contessa:: block(Player & player) {cout << "block" << endl;}
+void Contessa:: block(Player & player) {
+//    cout << "block" << endl;
+}

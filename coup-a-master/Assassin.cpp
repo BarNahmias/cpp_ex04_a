@@ -5,5 +5,5 @@
 #include "Assassin.hpp"
 using namespace coup;
 void Assassin::coup (Player & player) {
-    cout << "block" << endl;
+//    cout << "block" << endl;
 }
